@@ -13,3 +13,13 @@
 - Students and staffs:reporting their lost items and the ability to claim it. 
 - Administrators such as student affairs or security or any other body will review,
     verify and record returns and complaints
+## User stories
+- Users must be able to register and log in to the site
+- Users should be able to filter and search for their lost items so they can find it faster
+- Users should be able to report a lost item so it could be found
+- Spotters should report a missing item they find with a photo and location
+- Spotters should be able to add identification details so that only the real owners can get it
+- Owners should be able to submit a claim with proof
+- Claimers/obtainers should be able to track their status
+-  Admins should accept or reject claims so that the lost item get to the rightful owner
+- Admins must mark records as returned to make sure records stay accurate
